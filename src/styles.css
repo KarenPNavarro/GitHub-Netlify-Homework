@@ -1,0 +1,38 @@
+body {
+  background-color: #8194ff;
+}
+
+.box {
+  padding: 75px;
+}
+
+.upperbody {
+  text-align: center;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  padding: 25px;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  color: #fff;
+  font-size: 25px;
+}
+
+.sunnycloud {
+  font-size: 50px;
+  padding: 5px;
+}
+
+.footer {
+  padding: 75px;
+}
+
+.body-wrap {
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
